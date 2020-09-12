@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "31779220689",
+    "firebase_url": "https://thikathani-c60b4.firebaseio.com",
+    "project_id": "thikathani-c60b4",
+    "storage_bucket": "thikathani-c60b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31779220689:android:8914377f2f5ebe76d729f0",
+        "android_client_info": {
+          "package_name": "com.ebha.ThikaThani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31779220689-s6jsahnpcbdfjip8eicd6geip02npgfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0g6Io2R2IUr4S4fb4N7Ga09-6rpEpfkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31779220689-s6jsahnpcbdfjip8eicd6geip02npgfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
